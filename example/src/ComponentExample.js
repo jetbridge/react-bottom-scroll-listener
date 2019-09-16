@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import * as React, { Component } from 'react'
 
 import 'react-toggle/style.css'
 

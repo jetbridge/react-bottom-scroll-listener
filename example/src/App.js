@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import * as React, { useState } from 'react'
 import Toggle from 'react-toggle'
 
 import ComponentExample from './ComponentExample'

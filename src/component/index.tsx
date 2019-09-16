@@ -6,7 +6,8 @@
  */
 
 import debounce from 'lodash.debounce'
-import React, { Component } from 'react'
+import * as React from 'react'
+import { Component } from 'react'
 
 export interface Props {
   /** Required callback that will be invoked when scrolled to bottom */

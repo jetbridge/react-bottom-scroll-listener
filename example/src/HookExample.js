@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react'
+import * as React, { useCallback } from 'react'
 
 import { useBottomScrollListener } from 'react-bottom-scroll-listener'
 
